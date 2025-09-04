@@ -214,7 +214,7 @@ def draw_coin(coin):
     glPushMatrix()
     glTranslatef(coin.x, coin.y, coin.z)
     glColor3f(1.0, 0.84, 0.0)
-    glutSolidSphere(8, 20, 20)
+    gluSphere(gluNewQuadric(), 8, 20, 20)
     glPopMatrix()
 
 def draw_bunker():
