@@ -67,7 +67,9 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 
 ---
 ## ⚙️ Requirements:
+
 Make sure you have Python 3.8+ installed.
+
 [Download Python](https://www.python.org/downloads/), if you don’t have it.
  
 ## 🔧 Installation:
@@ -75,31 +77,33 @@ Make sure you have Python 3.8+ installed.
 **Install the dependencies:**
 
 **Windows / Linux / macOS (default Python environment):**
-'''bash
-pip install PyOpenGL PyOpenGL_accelerate numpy'''
+
+```bash
+pip install PyOpenGL PyOpenGL_accelerate numpy```
 
 **If you’re using pip3 (common on Linux/macOS):**
 
-'''bash
-pip3 install PyOpenGL PyOpenGL_accelerate numpy'''
+```bash
+pip3 install PyOpenGL PyOpenGL_accelerate numpy```
 
 **If you’re using Anaconda (recommended for science/graphics projects):**
 
-'''bash
-conda install -c conda-forge pyopengl numpy'''
+```bash
+conda install -c conda-forge pyopengl numpy```
 
 ## ▶️ How to Run
 
 **1. Clone this repository:**
-'''bash
+
+```bash
 git clone https://github.com/your-username/zombie-survival-arena.git
-cd zombie-survival-arena'''
+cd zombie-survival-arena```
 
 **2. Run the game:**
 
-python main.py
+```python main.py```
 
-##Gameplay Screenshots📸:
+## Gameplay Screenshots📸:
 
 
 ## 🚀 Future Improvements:
@@ -108,7 +112,7 @@ python main.py
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
 
-##Developed by [munazza-r],[Afia-Abida] and [mahzabinsandria]
-##If you like this project, ⭐ the repo and share with friends!
+## Developed by [munazza-r],[Afia-Abida] and [mahzabinsandria]
+## If you like this project, ⭐ the repo and share with friends!
 
 
