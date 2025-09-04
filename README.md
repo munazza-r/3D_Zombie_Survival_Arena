@@ -70,7 +70,7 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 
 Make sure you have Python 3.8+ installed.
 
-[Download Python](https://www.python.org/downloads/), if you don’t have it.
+Download [Python](https://www.python.org/downloads/), if you don’t have it.
  
 ## 🔧 Installation:
 
