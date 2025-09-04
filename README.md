@@ -115,8 +115,8 @@ python main.py
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
 
-***Developed by [Munazza Binte Rafiq](https://github.com/munazza-r), [Afia Abida Shohid](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!***
+**Developed by [Munazza Binte Rafiq](https://github.com/munazza-r), [Afia Abida Shohid](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!**
 
-*** If you like this project, ⭐ the repo and share with friends!***
+**If you like this project, ⭐ the repo and share with friends!**
 
 
