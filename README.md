@@ -1,11 +1,11 @@
 # 🧟 Zombie Survival Arena
 
 This is a 3D zombie survival arena built with **OpenGL** and **GLUT** in Python.  
-Survive waves of zombies, collect coins, redeem health, and outlast the timer… or get your brain eaten! 🧠  
+
 
 ---
 
-## 🎮 Gameplay
+## 🎮 Gameplay description
 
 The game offers three difficulty modes:  
 - **Easy** – For the weak of heart  
