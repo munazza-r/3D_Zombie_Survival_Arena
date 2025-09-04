@@ -114,6 +114,8 @@ python main.py
 - Player hands and legs will be added
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
+  
+-----
 
 **Developed by [Munazza Binte Rafiq](https://github.com/munazza-r), [Afia Abida Shohid](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!**
 
