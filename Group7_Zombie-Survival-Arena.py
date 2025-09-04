@@ -341,7 +341,7 @@ def update_game():
     game_time = current_time - start_time
     
 
-    wave_start_times = [30, 60]  # Wave starts 30s and 60s
+    wave_start_times = [30, 60]  # Wave starts at 30s and 60s
     
     current_wave = False
     for wave_start in wave_start_times:
@@ -1232,3 +1232,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
