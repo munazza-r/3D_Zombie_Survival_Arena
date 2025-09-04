@@ -105,7 +105,8 @@ cd zombie-survival-arena
 
 **2. Run the game:**
 
-```python main.py
+```bash
+python main.py
 ```
 
 ## Gameplay Screenshots📸:
@@ -117,7 +118,7 @@ cd zombie-survival-arena
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
 
-## Developed by [Munazza Binte Rafiq](https://github.com/munazza-r),[Afia Abida Shohis](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!
-## If you like this project, ⭐ the repo and share with friends!
+### Developed by [Munazza Binte Rafiq](https://github.com/munazza-r), [Afia Abida Shohis](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!
+### If you like this project, ⭐ the repo and share with friends!
 
 
