@@ -33,7 +33,7 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 - **Enemies**:  
   - Red zombies – slower but stronger  
   - Blue zombies – faster but weaker  
-- **Zombie Waves**: New wave every 30 seconds.  
+- **Zombie Waves**: New wave every 30 seconds lasting 10 second.  
 - **Coin System**: Collect coins for score.  
 - **Health System**: Health drops 10% after each zombie hit.  
 - **Health Boost**: Redeem 2 coins for +10% health (`C`).  
@@ -50,10 +50,10 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 
 | Key | Action |
 |-----|--------|
-| ⬆️ | Move Forward |
-| ⬇️ | Move Backward |
-| ⬅️ | Turn Left |
-| ➡️ | Turn Right |
+| `↑`| Move Forward |
+| `↓` | Move Backward |
+| `←` | Turn Left |
+| `→` | Turn Right |
 | `A` | Rotate player anticlockwise |
 | `D` | Rotate player clockwise |
 | `W` | Zoom out of Arena |
@@ -79,17 +79,20 @@ Make sure you have Python 3.8+ installed.
 **Windows / Linux / macOS (default Python environment):**
 
 ```bash
-pip install PyOpenGL PyOpenGL_accelerate numpy```
+pip install PyOpenGL PyOpenGL_accelerate numpy
+```
 
 **If you’re using pip3 (common on Linux/macOS):**
 
 ```bash
-pip3 install PyOpenGL PyOpenGL_accelerate numpy```
+pip3 install PyOpenGL PyOpenGL_accelerate numpy
+```
 
 **If you’re using Anaconda (recommended for science/graphics projects):**
 
 ```bash
-conda install -c conda-forge pyopengl numpy```
+conda install -c conda-forge pyopengl numpy
+```
 
 ## ▶️ How to Run
 
@@ -97,11 +100,13 @@ conda install -c conda-forge pyopengl numpy```
 
 ```bash
 git clone https://github.com/your-username/zombie-survival-arena.git
-cd zombie-survival-arena```
+cd zombie-survival-arena
+```
 
 **2. Run the game:**
 
-```python main.py```
+```python main.py
+```
 
 ## Gameplay Screenshots📸:
 
@@ -112,7 +117,7 @@ cd zombie-survival-arena```
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
 
-## Developed by [munazza-r],[Afia-Abida] and [mahzabinsandria]
+## Developed by [Munazza Binte Rafiq](https://github.com/munazza-r),[Afia Abida Shohis](https://github.com/Afia-Abida) and [Mahima Mahzabin Sandria](https://github.com/mahzabinsandria). Go check out our profiles!
 ## If you like this project, ⭐ the repo and share with friends!
 
 
