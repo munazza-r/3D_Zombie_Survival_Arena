@@ -66,32 +66,34 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 | Mouse Left Click | Shoot bullet |
 
 ---
-##⚙️ Requirements
+## ⚙️ Requirements:
 Make sure you have Python 3.8+ installed.
 [Download Python](https://www.python.org/downloads/), if you don’t have it.
  
-##⚙️ Installation
+## 🔧 Installation:
 
 **Install the dependencies:**
 
 **Windows / Linux / macOS (default Python environment):**
-
-pip install PyOpenGL PyOpenGL_accelerate numpy
+'''bash
+pip install PyOpenGL PyOpenGL_accelerate numpy'''
 
 **If you’re using pip3 (common on Linux/macOS):**
 
-pip3 install PyOpenGL PyOpenGL_accelerate numpy
+'''bash
+pip3 install PyOpenGL PyOpenGL_accelerate numpy'''
 
 **If you’re using Anaconda (recommended for science/graphics projects):**
 
-conda install -c conda-forge pyopengl numpy
+'''bash
+conda install -c conda-forge pyopengl numpy'''
 
-##▶️ How to Run
+## ▶️ How to Run
 
 **1. Clone this repository:**
-
+'''bash
 git clone https://github.com/your-username/zombie-survival-arena.git
-cd zombie-survival-arena
+cd zombie-survival-arena'''
 
 **2. Run the game:**
 
@@ -100,7 +102,7 @@ python main.py
 ##Gameplay Screenshots📸:
 
 
-##🚀 Future Improvements:
+## 🚀 Future Improvements:
 - Cheat Cooldown and Cooldown Timer will be added
 - Player hands and legs will be added
 - Bunker will disappear when bunker uses run out
