@@ -5,7 +5,7 @@ This is a 3D zombie survival arena built with **OpenGL** and **GLUT** in Python.
 
 ---
 
-## 🎮 Gameplay description
+## 🖥️ Gameplay description
 
 The game offers three difficulty modes:  
 - **Easy** – For the weak of heart  
@@ -26,8 +26,8 @@ You also lose when the timer runs out and you have failed to achieve the goal or
 
 ---
 
-## ✨ Features
-- **Player Movement**: Move inside the arena using arrow keys + `A`/`D` for rotation.  
+## 🎮 Features
+- **Player Movement**: Move inside the arena using arrow keys and `A`/`D` for rotation.  
 - **Camera Controls**: Zoom with `W`/`S`, rotate arena with `=`/`-`.  
 - **Shooting Mechanism**: Fire bullets with **Mouse Left Click**.  
 - **Enemies**:  
