@@ -114,6 +114,7 @@ python main.py
 - Player hands and legs will be added
 - Bunker will disappear when bunker uses run out
 - Power-ups will be added
+- Pause and Quit buttons
   
 -----
 
